@@ -1,0 +1,8 @@
+{
+  "js": ["js/cadastrapp.js"],
+  "css": "css/cadastrapp.css",
+  "html": "cadastrapp.html",
+  "target": "page-content-wrapper",
+  "options": {}
+
+}
